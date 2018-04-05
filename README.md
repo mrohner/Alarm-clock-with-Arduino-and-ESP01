@@ -2,8 +2,8 @@
 Alarm clock that gets system time from my server. Not only it measures temperature and humidity in my bedroom, but also 
 checks for movements. In the night, because my eye sight is not too good, the time is displayed by a Neopixel ring. You can set
 an alarm to wake you in the morning. I use an Arduino Nano to do all the IO's and an ESP01 for communicating through
-the wifi network. You may also use a Wemos D1 mini instead but I like to use up my Nanos and ESP01 for that purpose.
-See also the OCB Board in Eagle I developped for this project.
+the wifi network. You may also use a Wemos D1 mini instead but I like to use up my Nanos and ESP01s for that purpose.
+See also the PCB Board in Eagle I developped for this project.
 
 OK, it does not look very exciting but there are a lot of topics that are covered with this project, such as:
 * Communication between Arduino Nano and ESP01 through Json
