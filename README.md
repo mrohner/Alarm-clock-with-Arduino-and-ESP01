@@ -12,7 +12,7 @@ OK, it does not look very exciting but there are a lot of topics that are covere
 * Using node-red to extract time from the server and make it available to my home automation nodes
 
 
-![Alarm Clock](IMG1131.JPG)
+![Alarm Clock](IMG_1131.JPG)
 
 
 ## How It Works
