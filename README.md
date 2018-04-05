@@ -21,6 +21,7 @@ OK, it does not look very exciting but there are a lot of topics that are covere
 - The Arduino Nano does all the IO's, drives the Neopixels and reports to the ESP01 via json
 - Press the Set switch to set the alarm, press the dial switch to change alarm time, press the panic switch to display time
   and to snooze when alarm goes off.
+- The time is displayed like the hour beeing a red and the minutes beeing a green LED on the Neopixel ring.
 
 
 
