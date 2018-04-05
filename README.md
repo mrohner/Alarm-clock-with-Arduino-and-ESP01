@@ -14,6 +14,7 @@ OK, it does not look very exciting but there are a lot of topics that are covere
 
 ![Alarm Clock](IMG_1131.JPG)
 
+It is one o'clock and 55 minutes.
 
 ## How It Works
 - when the clock starts up the ESP01 requests the system time from the server through MQTT and Node-red
